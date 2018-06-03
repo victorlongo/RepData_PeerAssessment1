@@ -1,0 +1,7 @@
+base
+dplyr
+magrittr
+xtable
+ggplot2
+bindrcpp
+knitr
